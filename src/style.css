@@ -13,7 +13,9 @@ body {
 }
 
 h1 {
-  font-size: 36px;
+  font-family: "Qwitcher Grypen", cursive;
+  font-size: 66px;
+  font-weight: 700;
   text-align: center;
 }
 
@@ -59,6 +61,6 @@ h2 {
 
 footer {
   color: rgba(0, 0, 0, 0.8);
-  font-size: 15px;
+  font-size: 12px;
   text-align: center;
 }
